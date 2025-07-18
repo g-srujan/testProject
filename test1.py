@@ -1,5 +1,5 @@
 import random
-
+# Sample function to guess a number
 def guess_number():
     number = random.randint(1, 10)
     while True:
